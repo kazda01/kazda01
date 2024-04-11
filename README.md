@@ -15,6 +15,12 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
   
 </div>
 
+---
+
+<br>
+
+<div align="center">
+  
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -53,6 +59,8 @@ JSON                     37 mins             █░░░░░░░░░░�
 
  Last Updated on 11/04/2024 18:36:58 UTC
 <!--END_SECTION:waka-->
+
+</div>
 
 ## 💻 Tech stack
 <div align="center">
