@@ -11,7 +11,7 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=kazda01&theme=dark)](https://git.io/streak-stats)
   
-  ![Top Langs](https://github-readme-stats-seven-lime-78.vercel.app/api/top-langs/?username=kazda01&layout=compact&theme=dark&hide=Shell,Batchfile,Awk,HTML,Swig,c%2B%2B)
+  ![Top Langs](https://github-readme-stats-seven-lime-78.vercel.app/api/top-langs/?username=kazda01&layout=compact&theme=dark&hide=Shell,Batchfile,Awk,HTML,Swig,c%2B%2B,Lua)
   
 </div>
 
