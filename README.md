@@ -51,11 +51,12 @@ Sunday                   622 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      14 mins             ██████████████░░░░░░░░░░░   54.80 % 
+PHP                      11 mins             ███████████░░░░░░░░░░░░░░   45.20 % 
 ```
 
 
- Last Updated on 07/01/2025 18:46:05 UTC
+ Last Updated on 08/01/2025 18:45:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
