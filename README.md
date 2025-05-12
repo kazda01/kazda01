@@ -9,9 +9,13 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=kazda01&theme=dark)](https://git.io/streak-stats)
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://git.io/streak-stats)">
+    <img alt="GitHub Streak" height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=kazda01&theme=dark" />
+  </a>
   
-  ![Top Langs](https://github-readme-stats-seven-lime-78.vercel.app/api/top-langs/?username=kazda01&layout=compact&theme=dark&hide=Shell,Batchfile,Awk,HTML,Swig,c%2B%2B,Lua)
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img alt="Top Langs" height=200 align="center" src="https://github-readme-stats-seven-lime-78.vercel.app/api/top-langs/?username=kazda01&layout=compact&theme=dark&hide=Shell,Batchfile,Awk,HTML,Swig,c%2B%2B,Lua" />
+  </a>
   
 </div>
 
