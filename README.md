@@ -26,7 +26,7 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -55,15 +55,15 @@ Sunday                   768 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      1 hr 49 mins        ██████████████████░░░░░░░   73.48 % 
-Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+PHP                      1 hr 43 mins        ██████████████████░░░░░░░   72.31 % 
+Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 27/05/2025 18:51:37 UTC
+ Last Updated on 28/05/2025 18:49:38 UTC
 <!--END_SECTION:waka-->
 
 </div>
