@@ -27,7 +27,7 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C831%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.79%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -62,7 +62,7 @@ Text                     4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/12/2025 18:52:46 UTC
+ Last Updated on 01/01/2026 18:53:32 UTC
 <!--END_SECTION:waka-->
 
 </div>
