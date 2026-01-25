@@ -25,7 +25,7 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 <div align="center">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -54,15 +54,15 @@ Sunday                   575 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      12 hrs 50 mins      █████████████████░░░░░░░░   66.78 % 
-Nix                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+PHP                      12 hrs 50 mins      ██████████████████░░░░░░░   71.37 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Nix                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 
 
- Last Updated on 24/01/2026 18:53:58 UTC
+ Last Updated on 25/01/2026 18:53:35 UTC
 <!--END_SECTION:waka-->
 
 </div>
