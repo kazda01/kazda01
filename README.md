@@ -23,7 +23,9 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 <br>
 
 <div align="center">
-  
+
+[![Visits Badge](https://badges.pufler.dev/visits/kazda01/kazda01?color=blue&style=flat)](https://badges.pufler.dev)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C038%20hrs%2047%20mins-blue?style=flat)
 
