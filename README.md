@@ -27,30 +27,7 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 [![Visits Badge](https://badges.pufler.dev/visits/kazda01/kazda01?color=blue&style=flat)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C192%20hrs%2043%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.72%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                288 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-🌆 Daytime                1844 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
-🌃 Evening                2545 commits        ████████████░░░░░░░░░░░░░   48.42 % 
-🌙 Night                  579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   785 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Tuesday                  719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Wednesday                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   913 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Saturday                 603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Sunday                   775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-```
-
 
 **I Mostly Code in PHP** 
 
@@ -65,7 +42,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:15:28 UTC
+ Last Updated on 15/05/2026 20:02:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
