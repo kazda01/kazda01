@@ -27,8 +27,6 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 [![Visits Badge](https://badges.pufler.dev/visits/kazda01/kazda01?color=blue&style=flat)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C201%20hrs%2051%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.72%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -65,7 +63,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 19:15:10 UTC
+ Last Updated on 22/05/2026 19:08:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
