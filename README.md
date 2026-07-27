@@ -27,30 +27,54 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 [![Visits Badge](https://badges.pufler.dev/visits/kazda01/kazda01?color=blue&style=flat)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C280%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.73%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2050%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.74%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                299 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-🌆 Daytime                1864 commits        █████████░░░░░░░░░░░░░░░░   35.21 % 
-🌃 Evening                2552 commits        ████████████░░░░░░░░░░░░░   48.21 % 
-🌙 Night                  579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+🌞 Morning                299 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+🌆 Daytime                1870 commits        █████████░░░░░░░░░░░░░░░░   35.16 % 
+🌃 Evening                2571 commits        ████████████░░░░░░░░░░░░░   48.34 % 
+🌙 Night                  579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                764 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   923 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Saturday                 603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Sunday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Monday                   793 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Tuesday                  738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Friday                   923 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Saturday                 607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 24 mins (60.71%)
+
+✍️ 14,431 lines written by AI, 548 lines written by hand (96.34% AI-written)
+
+🔤 143,340,550 Input Tokens, 528,152 Output Tokens
+
+💵 $732.55 Estimated AI Cost This Week
+
+🧠 33 AI Sessions, 60 AI Prompts
+
+GPT                      15,091 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.34% of written lines came from AI
+📄 Detailed Prompter — average 1,055 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 8.34% of changed lines were hand-edited
+```
 
 **I Mostly Code in PHP** 
 
@@ -65,7 +89,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 18:51:18 UTC
+ Last Updated on 27/07/2026 19:01:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
