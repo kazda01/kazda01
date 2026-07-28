@@ -27,10 +27,6 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 [![Visits Badge](https://badges.pufler.dev/visits/kazda01/kazda01?color=blue&style=flat)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C280%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2050%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.74%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -57,23 +53,23 @@ Sunday                   789 commits         ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 24 mins (60.71%)
+⏱ AI Coding Time: 12 hrs 11 mins (65.72%)
 
-✍️ 14,431 lines written by AI, 548 lines written by hand (96.34% AI-written)
+✍️ 19,724 lines written by AI, 634 lines written by hand (96.89% AI-written)
 
-🔤 143,340,550 Input Tokens, 528,152 Output Tokens
+🔤 195,551,590 Input Tokens, 740,467 Output Tokens
 
-💵 $732.55 Estimated AI Cost This Week
+💵 $999.97 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 60 AI Prompts
+🧠 49 AI Sessions, 86 AI Prompts
 
-GPT                      15,091 lines        █████████████████████████   100.00 % 
+GPT                      20,445 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.34% of written lines came from AI
-📄 Detailed Prompter — average 1,055 characters per prompt
+🤖 AI-Driven — 96.89% of written lines came from AI
+📄 Detailed Prompter — average 1,218 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.34% of changed lines were hand-edited
+🚀 High AI Trust — 6.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -89,7 +85,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 19:01:14 UTC
+ Last Updated on 28/07/2026 18:58:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
