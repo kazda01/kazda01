@@ -27,26 +27,30 @@ My name is Antonin Kazda and I'm a developer from Czechia <img src="https://open
 [![Visits Badge](https://badges.pufler.dev/visits/kazda01/kazda01?color=blue&style=flat)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C329%20hrs%2022%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2018%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                301 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-🌆 Daytime                1899 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌃 Evening                2576 commits        ████████████░░░░░░░░░░░░░   48.09 % 
-🌙 Night                  581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+🌞 Morning                303 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+🌆 Daytime                1908 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌃 Evening                2590 commits        ████████████░░░░░░░░░░░░░   48.12 % 
+🌙 Night                  581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   793 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Friday                   932 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Sunday                   800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Monday                   793 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Tuesday                  740 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                770 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Friday                   953 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Sunday                   800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 ```
 
 
@@ -63,7 +67,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 18:50:19 UTC
+ Last Updated on 08/08/2026 18:47:57 UTC
 <!--END_SECTION:waka-->
 
 </div>
